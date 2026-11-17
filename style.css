@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    color: white;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+#nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 40px;
+    gap: 30px;
+}
+
+#lists{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 39px;
+}
+
+
