@@ -71,6 +71,7 @@ body{
 .main .main-part2{
     height: 100%;
     width: 50%;
+    position: relative;
 }
 button{
     border-radius: 10px;
@@ -91,6 +92,7 @@ button{
 
 .main-part2 img{
     height: 20%;
+    right: 0;
 }
 
 
